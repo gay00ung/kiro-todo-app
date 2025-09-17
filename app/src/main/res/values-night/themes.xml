@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme variant -->
+    <style name="Theme.AndroidTodoApp" parent="android:Theme.Material.NoActionBar">
+        <!-- Enable edge-to-edge display -->
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        
+        <!-- Basic Material dark colors -->
+        <item name="android:colorPrimary">@color/md_theme_dark_primary</item>
+        <item name="android:colorAccent">@color/md_theme_dark_secondary</item>
+        <item name="android:colorBackground">@color/md_theme_dark_background</item>
+    </style>
+</resources>

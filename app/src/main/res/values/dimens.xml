@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing values following 8dp grid system -->
+    <dimen name="spacing_extra_small">4dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_extra_large">32dp</dimen>
+    
+    <!-- Component-specific spacing -->
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="screen_padding">16dp</dimen>
+    <dimen name="list_item_padding">16dp</dimen>
+    <dimen name="button_padding">12dp</dimen>
+    <dimen name="icon_padding">8dp</dimen>
+    
+    <!-- Elevation values -->
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="app_bar_elevation">4dp</dimen>
+    
+    <!-- Touch target sizes (accessibility compliance) -->
+    <dimen name="min_touch_target">48dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="small_icon_size">16dp</dimen>
+    <dimen name="large_icon_size">32dp</dimen>
+    
+    <!-- Corner radius values -->
+    <dimen name="corner_radius_small">4dp</dimen>
+    <dimen name="corner_radius_medium">8dp</dimen>
+    <dimen name="corner_radius_large">16dp</dimen>
+    <dimen name="corner_radius_extra_large">28dp</dimen>
+    
+    <!-- Text sizes (accessibility-friendly) -->
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_extra_large">18sp</dimen>
+    
+    <!-- Line heights for better readability -->
+    <dimen name="line_height_small">16sp</dimen>
+    <dimen name="line_height_medium">20sp</dimen>
+    <dimen name="line_height_large">24sp</dimen>
+    <dimen name="line_height_extra_large">28sp</dimen>
+</resources>

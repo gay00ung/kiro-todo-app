@@ -1,0 +1,34 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Gradle
+.gradle/
+**/build/
+
+# Android
+local.properties
+*.apk
+*.ap_ 
+*.aab
+*.hprof
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE (IntelliJ/Android Studio)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Kotlin tooling cache
+.kotlin/
+
+# Signing keys (do not commit real keys)
+*.jks
+*.keystore
+*.keystore.properties
+
+# Logs
+*.log

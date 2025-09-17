@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Navigation -->
+    <string name="navigate_back">Naviguer en arrière</string>
+    <string name="open_settings">Ouvrir les paramètres</string>
+    <string name="settings">Paramètres</string>
+    
+    <!-- Todo List Screen -->
+    <string name="todo_list_title">Liste des Tâches</string>
+    <string name="search_todos_hint">Rechercher des tâches...</string>
+    <string name="filter_all">Toutes</string>
+    <string name="filter_active">Actives</string>
+    <string name="filter_done">Terminées</string>
+    <string name="add_todo">Ajouter une nouvelle tâche</string>
+    <string name="loading_todos">Chargement des tâches</string>
+    <string name="loading_more_todos">Chargement de plus de tâches</string>
+    <string name="clear_search">Effacer la recherche</string>
+    <string name="search">Rechercher</string>
+    <string name="add">Ajouter</string>
+    
+    <!-- Empty States -->
+    <string name="empty_no_todos">Aucune tâche pour le moment</string>
+    <string name="empty_no_active_todos">Aucune tâche active</string>
+    <string name="empty_no_completed_todos">Aucune tâche terminée</string>
+    <string name="empty_no_search_results">Aucune tâche trouvée</string>
+    <string name="empty_hint_first_todo">Appuyez sur le bouton + pour ajouter votre première tâche</string>
+    <string name="empty_hint_all_completed">Toutes vos tâches sont terminées !</string>
+    <string name="empty_hint_complete_some">Terminez quelques tâches pour les voir ici</string>
+    <string name="empty_hint_adjust_search">Essayez d\'ajuster vos termes de recherche</string>
+    
+    <!-- Todo Item -->
+    <string name="todo_due_date">Échéance : %1$s</string>
+    <string name="mark_complete">Marquer comme terminée</string>
+    <string name="mark_incomplete">Marquer comme incomplète</string>
+    <string name="completed_todo">Tâche terminée : %1$s</string>
+    <string name="active_todo">Tâche active : %1$s</string>
+    <string name="complete">Terminer</string>
+    <string name="delete">Supprimer</string>
+    
+    <!-- Todo Edit Screen -->
+    <string name="new_todo">Nouvelle Tâche</string>
+    <string name="edit_todo">Modifier la Tâche</string>
+    <string name="loading_todo">Chargement de la tâche</string>
+    <string name="title">Titre</string>
+    <string name="title_hint">Entrez le titre de la tâche...</string>
+    <string name="note_optional">Note (Optionnel)</string>
+    <string name="note_hint">Ajouter des détails supplémentaires...</string>
+    <string name="due_date">Date d\'Échéance</string>
+    <string name="set_due_date">Définir la Date d\'Échéance</string>
+    <string name="clear_due_date">Effacer la date d\'échéance</string>
+    <string name="change_due_date">Changer la date d\'échéance, actuellement définie pour %1$s</string>
+    <string name="save">Enregistrer</string>
+    <string name="cancel">Annuler</string>
+    <string name="back">Retour</string>
+    <string name="ok">OK</string>
+    <string name="select_due_date">Sélectionner la date d\'échéance</string>
+    <string name="confirm_date_selection">Confirmer la sélection de date</string>
+    <string name="cancel_date_selection">Annuler la sélection de date</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_screen">Écran des paramètres</string>
+    <string name="appearance">Apparence</string>
+    <string name="dark_mode">Mode Sombre</string>
+    <string name="dark_theme_enabled">Thème sombre activé</string>
+    <string name="light_theme_enabled">Thème clair activé</string>
+    <string name="dark_mode_enabled_description">Mode sombre activé, appuyez pour désactiver</string>
+    <string name="dark_mode_disabled_description">Mode sombre désactivé, appuyez pour activer</string>
+    <string name="default_filter">Filtre par Défaut</string>
+    <string name="default_filter_description">Choisissez le filtre par défaut au démarrage de l\'application</string>
+    <string name="filter_option_all">Afficher toutes les tâches</string>
+    <string name="filter_option_active">Afficher uniquement les tâches incomplètes</string>
+    <string name="filter_option_done">Afficher uniquement les tâches terminées</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="reset_settings_description">Réinitialiser tous les paramètres aux valeurs par défaut</string>
+    <string name="reset_all_settings">Réinitialiser Tous les Paramètres</string>
+    
+    <!-- Accessibility Content Descriptions -->
+    <string name="search_todos_description">Rechercher des tâches par titre ou note</string>
+    <string name="filter_todos_description">Filtrer par tâches %1$s</string>
+    <string name="todo_title_input_description">Champ de saisie du titre de la tâche</string>
+    <string name="todo_note_input_description">Champ de saisie de la note de la tâche</string>
+    <string name="cancel_editing_description">Annuler la modification et revenir</string>
+    <string name="save_todo_description">Enregistrer la tâche</string>
+    <string name="filter_option_description">Option de filtre %1$s</string>
+    <string name="reset_settings_description_full">Réinitialiser tous les paramètres aux valeurs par défaut</string>
+    
+    <!-- Swipe Actions -->
+    <string name="swipe_to_complete">Glisser vers la droite pour terminer</string>
+    <string name="swipe_to_delete">Glisser vers la gauche pour supprimer</string>
+    
+    <!-- Error Messages -->
+    <string name="error_title_required">Le titre est requis</string>
+    <string name="error_loading_todo">Erreur lors du chargement de la tâche</string>
+    <string name="error_saving_todo">Erreur lors de l\'enregistrement de la tâche</string>
+    <string name="error_deleting_todo">Erreur lors de la suppression de la tâche</string>
+</resources>

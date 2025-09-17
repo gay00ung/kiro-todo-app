@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Navigation -->
+    <string name="navigate_back">Navegar atrás</string>
+    <string name="open_settings">Abrir configuración</string>
+    <string name="settings">Configuración</string>
+    
+    <!-- Todo List Screen -->
+    <string name="todo_list_title">Lista de Tareas</string>
+    <string name="search_todos_hint">Buscar tareas...</string>
+    <string name="filter_all">Todas</string>
+    <string name="filter_active">Activas</string>
+    <string name="filter_done">Completadas</string>
+    <string name="add_todo">Agregar nueva tarea</string>
+    <string name="loading_todos">Cargando tareas</string>
+    <string name="loading_more_todos">Cargando más tareas</string>
+    <string name="clear_search">Limpiar búsqueda</string>
+    <string name="search">Buscar</string>
+    <string name="add">Agregar</string>
+    
+    <!-- Empty States -->
+    <string name="empty_no_todos">No hay tareas aún</string>
+    <string name="empty_no_active_todos">No hay tareas activas</string>
+    <string name="empty_no_completed_todos">No hay tareas completadas</string>
+    <string name="empty_no_search_results">No se encontraron tareas</string>
+    <string name="empty_hint_first_todo">Toca el botón + para agregar tu primera tarea</string>
+    <string name="empty_hint_all_completed">¡Todas tus tareas están completadas!</string>
+    <string name="empty_hint_complete_some">Completa algunas tareas para verlas aquí</string>
+    <string name="empty_hint_adjust_search">Intenta ajustar tus términos de búsqueda</string>
+    
+    <!-- Todo Item -->
+    <string name="todo_due_date">Vence: %1$s</string>
+    <string name="mark_complete">Marcar como completada</string>
+    <string name="mark_incomplete">Marcar como incompleta</string>
+    <string name="completed_todo">Tarea completada: %1$s</string>
+    <string name="active_todo">Tarea activa: %1$s</string>
+    <string name="complete">Completar</string>
+    <string name="delete">Eliminar</string>
+    
+    <!-- Todo Edit Screen -->
+    <string name="new_todo">Nueva Tarea</string>
+    <string name="edit_todo">Editar Tarea</string>
+    <string name="loading_todo">Cargando tarea</string>
+    <string name="title">Título</string>
+    <string name="title_hint">Ingresa el título de la tarea...</string>
+    <string name="note_optional">Nota (Opcional)</string>
+    <string name="note_hint">Agregar detalles adicionales...</string>
+    <string name="due_date">Fecha de Vencimiento</string>
+    <string name="set_due_date">Establecer Fecha de Vencimiento</string>
+    <string name="clear_due_date">Limpiar fecha de vencimiento</string>
+    <string name="change_due_date">Cambiar fecha de vencimiento, actualmente establecida para %1$s</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="back">Atrás</string>
+    <string name="ok">OK</string>
+    <string name="select_due_date">Seleccionar fecha de vencimiento</string>
+    <string name="confirm_date_selection">Confirmar selección de fecha</string>
+    <string name="cancel_date_selection">Cancelar selección de fecha</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_screen">Pantalla de configuración</string>
+    <string name="appearance">Apariencia</string>
+    <string name="dark_mode">Modo Oscuro</string>
+    <string name="dark_theme_enabled">Tema oscuro habilitado</string>
+    <string name="light_theme_enabled">Tema claro habilitado</string>
+    <string name="dark_mode_enabled_description">Modo oscuro habilitado, toca para deshabilitar</string>
+    <string name="dark_mode_disabled_description">Modo oscuro deshabilitado, toca para habilitar</string>
+    <string name="default_filter">Filtro Predeterminado</string>
+    <string name="default_filter_description">Elige el filtro predeterminado cuando la aplicación inicie</string>
+    <string name="filter_option_all">Mostrar todas las tareas</string>
+    <string name="filter_option_active">Mostrar solo tareas incompletas</string>
+    <string name="filter_option_done">Mostrar solo tareas completadas</string>
+    <string name="reset">Restablecer</string>
+    <string name="reset_settings_description">Restablecer todas las configuraciones a valores predeterminados</string>
+    <string name="reset_all_settings">Restablecer Todas las Configuraciones</string>
+    
+    <!-- Accessibility Content Descriptions -->
+    <string name="search_todos_description">Buscar tareas por título o nota</string>
+    <string name="filter_todos_description">Filtrar por tareas %1$s</string>
+    <string name="todo_title_input_description">Campo de entrada del título de la tarea</string>
+    <string name="todo_note_input_description">Campo de entrada de la nota de la tarea</string>
+    <string name="cancel_editing_description">Cancelar edición y regresar</string>
+    <string name="save_todo_description">Guardar tarea</string>
+    <string name="filter_option_description">Opción de filtro %1$s</string>
+    <string name="reset_settings_description_full">Restablecer todas las configuraciones a valores predeterminados</string>
+    
+    <!-- Swipe Actions -->
+    <string name="swipe_to_complete">Deslizar a la derecha para completar</string>
+    <string name="swipe_to_delete">Deslizar a la izquierda para eliminar</string>
+    
+    <!-- Error Messages -->
+    <string name="error_title_required">El título es requerido</string>
+    <string name="error_loading_todo">Error al cargar la tarea</string>
+    <string name="error_saving_todo">Error al guardar la tarea</string>
+    <string name="error_deleting_todo">Error al eliminar la tarea</string>
+</resources>

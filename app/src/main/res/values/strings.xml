@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todo</string>
+    
+    <!-- Navigation -->
+    <string name="navigate_back">Navigate back</string>
+    <string name="open_settings">Open settings</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Todo List Screen -->
+    <string name="todo_list_title">Todo List</string>
+    <string name="search_todos_hint">Search todos...</string>
+    <string name="filter_all">All</string>
+    <string name="filter_active">Active</string>
+    <string name="filter_done">Done</string>
+    <string name="add_todo">Add new todo</string>
+    <string name="loading_todos">Loading todos</string>
+    <string name="loading_more_todos">Loading more todos</string>
+    <string name="clear_search">Clear search</string>
+    <string name="search">Search</string>
+    <string name="add">Add</string>
+    
+    <!-- Empty States -->
+    <string name="empty_no_todos">No todos yet</string>
+    <string name="empty_no_active_todos">No active todos</string>
+    <string name="empty_no_completed_todos">No completed todos</string>
+    <string name="empty_no_search_results">No todos found</string>
+    <string name="empty_hint_first_todo">Tap the + button to add your first todo</string>
+    <string name="empty_hint_all_completed">All your todos are completed!</string>
+    <string name="empty_hint_complete_some">Complete some todos to see them here</string>
+    <string name="empty_hint_adjust_search">Try adjusting your search terms</string>
+    
+    <!-- Todo Item -->
+    <string name="todo_due_date">Due: %1$s</string>
+    <string name="mark_complete">Mark as complete</string>
+    <string name="mark_incomplete">Mark as incomplete</string>
+    <string name="completed_todo">Completed todo: %1$s</string>
+    <string name="active_todo">Active todo: %1$s</string>
+    <string name="complete">Complete</string>
+    <string name="delete">Delete</string>
+    
+    <!-- Todo Edit Screen -->
+    <string name="new_todo">New Todo</string>
+    <string name="edit_todo">Edit Todo</string>
+    <string name="loading_todo">Loading todo</string>
+    <string name="title">Title</string>
+    <string name="title_hint">Enter todo title...</string>
+    <string name="note_optional">Note (Optional)</string>
+    <string name="note_hint">Add additional details...</string>
+    <string name="due_date">Due Date</string>
+    <string name="set_due_date">Set Due Date</string>
+    <string name="clear_due_date">Clear due date</string>
+    <string name="change_due_date">Change due date, currently set to %1$s</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+    <string name="ok">OK</string>
+    <string name="select_due_date">Select due date</string>
+    <string name="confirm_date_selection">Confirm date selection</string>
+    <string name="cancel_date_selection">Cancel date selection</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_screen">Settings screen</string>
+    <string name="appearance">Appearance</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_theme_enabled">Dark theme enabled</string>
+    <string name="light_theme_enabled">Light theme enabled</string>
+    <string name="dark_mode_enabled_description">Dark mode enabled, tap to disable</string>
+    <string name="dark_mode_disabled_description">Dark mode disabled, tap to enable</string>
+    <string name="default_filter">Default Filter</string>
+    <string name="default_filter_description">Choose the default filter when app starts</string>
+    <string name="filter_option_all">Show all todos</string>
+    <string name="filter_option_active">Show only incomplete todos</string>
+    <string name="filter_option_done">Show only completed todos</string>
+    <string name="reset">Reset</string>
+    <string name="reset_settings_description">Reset all settings to default values</string>
+    <string name="reset_all_settings">Reset All Settings</string>
+    
+    <!-- Accessibility Content Descriptions -->
+    <string name="search_todos_description">Search todos by title or note</string>
+    <string name="filter_todos_description">Filter by %1$s todos</string>
+    <string name="todo_title_input_description">Todo title input field</string>
+    <string name="todo_note_input_description">Todo note input field</string>
+    <string name="cancel_editing_description">Cancel editing and go back</string>
+    <string name="save_todo_description">Save todo</string>
+    <string name="filter_option_description">%1$s filter option</string>
+    <string name="reset_settings_description_full">Reset all settings to default values</string>
+    
+    <!-- Swipe Actions -->
+    <string name="swipe_to_complete">Swipe right to complete</string>
+    <string name="swipe_to_delete">Swipe left to delete</string>
+    
+    <!-- App Shortcuts -->
+    <string name="add_todo_short">Add Todo</string>
+    <string name="add_todo_long">Add new todo item</string>
+    
+    <!-- Error Messages -->
+    <string name="error_title_required">Title is required</string>
+    <string name="error_loading_todo">Error loading todo</string>
+    <string name="error_saving_todo">Error saving todo</string>
+    <string name="error_deleting_todo">Error deleting todo</string>
+</resources>
